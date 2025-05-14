@@ -1,0 +1,3 @@
+[submodule "server/libs/QuickFIXn"]
+	path = server/libs/QuickFIXn
+	url = https://github.com/connamara/quickfixn.git
