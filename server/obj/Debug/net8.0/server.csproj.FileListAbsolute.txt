@@ -18,6 +18,7 @@ C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\n
 C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
 C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net8.0\server.sourcelink.json
 C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
 C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net8.0\staticwebassets.development.json
