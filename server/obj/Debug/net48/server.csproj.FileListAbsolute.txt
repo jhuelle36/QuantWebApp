@@ -1,6 +1,0 @@
-C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net48\server.csproj.AssemblyReference.cache
-C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net48\server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net48\server.AssemblyInfoInputs.cache
-C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net48\server.AssemblyInfo.cs
-C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net48\server.csproj.CoreCompileInputs.cache
-C:\Users\Jaden Huelle\Desktop\Self Projects\Quant\QuantWebApp\server\obj\Debug\net48\server.sourcelink.json
