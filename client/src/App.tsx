@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Container, Typography, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, CircularProgress } from '@mui/material';
 import axios from 'axios';
 import StockSearch from './components/StockSearch';
+import StockGraph from './components/StockGraph';
 
 interface WeatherForecast {
   date: string;
@@ -52,6 +53,7 @@ function App() {
         Weather Forecast
       </Typography>
       <StockSearch />
+      <StockGraph />
       <TableContainer component={Paper}>
         <Table>
           <TableHead>
